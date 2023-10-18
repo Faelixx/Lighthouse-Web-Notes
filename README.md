@@ -5,7 +5,7 @@ This repository contains all the notes taken by [me](https://github.com/Faelixx)
 
 ## Table of Contents
 * [Week 1](/Week_1)
-  * [Day 1](/Day_1)
+  * [Day 1](Week_1/Day_1)
 
 ## Headers in Markdown
 
